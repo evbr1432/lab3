@@ -1,4 +1,5 @@
 # lab3
 #Evan Brookens
-#This will cause a confilct
+# Partner: David Bostany
+This will cause a confilct
 
